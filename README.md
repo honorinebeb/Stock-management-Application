@@ -1,2 +1,2 @@
-# Stock-management-system
+# Stock-management-Application
 managing stock
